@@ -1,0 +1,16 @@
+C:\Users\HP ProBook\Desktop\MP\С#\Homework4\Exercise1\bin\Debug\net5.0\Exercise1.exe
+C:\Users\HP ProBook\Desktop\MP\С#\Homework4\Exercise1\bin\Debug\net5.0\Exercise1.deps.json
+C:\Users\HP ProBook\Desktop\MP\С#\Homework4\Exercise1\bin\Debug\net5.0\Exercise1.runtimeconfig.json
+C:\Users\HP ProBook\Desktop\MP\С#\Homework4\Exercise1\bin\Debug\net5.0\Exercise1.runtimeconfig.dev.json
+C:\Users\HP ProBook\Desktop\MP\С#\Homework4\Exercise1\bin\Debug\net5.0\Exercise1.dll
+C:\Users\HP ProBook\Desktop\MP\С#\Homework4\Exercise1\bin\Debug\net5.0\Exercise1.pdb
+C:\Users\HP ProBook\Desktop\MP\С#\Homework4\Exercise1\obj\Debug\net5.0\Exercise1.csproj.AssemblyReference.cache
+C:\Users\HP ProBook\Desktop\MP\С#\Homework4\Exercise1\obj\Debug\net5.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP ProBook\Desktop\MP\С#\Homework4\Exercise1\obj\Debug\net5.0\Exercise1.AssemblyInfoInputs.cache
+C:\Users\HP ProBook\Desktop\MP\С#\Homework4\Exercise1\obj\Debug\net5.0\Exercise1.AssemblyInfo.cs
+C:\Users\HP ProBook\Desktop\MP\С#\Homework4\Exercise1\obj\Debug\net5.0\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\HP ProBook\Desktop\MP\С#\Homework4\Exercise1\obj\Debug\net5.0\Exercise1.dll
+C:\Users\HP ProBook\Desktop\MP\С#\Homework4\Exercise1\obj\Debug\net5.0\refint\Exercise1.dll
+C:\Users\HP ProBook\Desktop\MP\С#\Homework4\Exercise1\obj\Debug\net5.0\Exercise1.pdb
+C:\Users\HP ProBook\Desktop\MP\С#\Homework4\Exercise1\obj\Debug\net5.0\Exercise1.genruntimeconfig.cache
+C:\Users\HP ProBook\Desktop\MP\С#\Homework4\Exercise1\obj\Debug\net5.0\ref\Exercise1.dll
